@@ -1,0 +1,10 @@
+../Core/Src/max7219_matrix.c:97:9:MAX7219_paintPointsInRow	32	static
+../Core/Src/max7219_matrix.c:108:6:MAX7219_paintPoints	32	static
+../Core/Src/max7219_matrix.c:118:6:MAX7219_MatrixInit	32	static
+../Core/Src/max7219_matrix.c:134:6:MAX7219_MatrixClear	24	static
+../Core/Src/max7219_matrix.c:142:6:MAX7219_MatrixSetRow	24	static
+../Core/Src/max7219_matrix.c:150:6:MAX7219_MatrixSetRow64	32	static
+../Core/Src/max7219_matrix.c:160:6:MAX7219_MatrixSetPixel	16	static
+../Core/Src/max7219_matrix.c:165:6:MAX7219_MatrixRShift	24	static
+../Core/Src/max7219_matrix.c:189:6:MAX7219_MatrixLShift	24	static
+../Core/Src/max7219_matrix.c:213:6:MAX7219_MatrixUpdate	24	static
